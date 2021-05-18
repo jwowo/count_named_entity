@@ -1,5 +1,3 @@
 ## Ignore File ##
 
-data/
-
-/output_files
+*.tsv
