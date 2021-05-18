@@ -1,8 +1,5 @@
 ## Ignore File ##
 
 data/
-#/data
 
 /output_files
-#output_files/
-
