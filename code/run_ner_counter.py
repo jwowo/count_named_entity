@@ -4,11 +4,11 @@ import os
 from tqdm import tqdm
 
 # Alternatively to setting the CLASSPATH add the jar via their path:
-os.environ["CLASSPATH"] = "/Users/jongwoo/Desktop/Project/stanford_ner/stanford-ner.jar"
+os.environ["CLASSPATH"] = "./stanford-ner.jar"
 
 # Set Path
-path = '/Users/jongwoo/Desktop/Project/stanford_ner/'
-output_path = '/Users/jongwoo/Desktop/Project/stanford_ner/output_files/'
+path = './'
+output_path = './output_files/'
 
 # Set StanfordNERTagger
 st = StanfordNERTagger(path + 'classifiers/english.muc.7class.distsim.crf.ser.gz')
@@ -24,8 +24,10 @@ for data in data_list:
     df_ner_count = pd.DataFrame(columns={'ID','LOCATION', 'PERSON', 'ORGANIZATION', 
                                 'MONEY', 'PERCENT', 'DATE', 'TIME'})
 
+	print('Start counting NER...')
+
     for idx, text in enumerate(tqdm(df['content'])):
-        ner_tag_list = st.tag(text.split())
+		ner_tag_list = st.tag(text.split())
         
         index_id = df['ID'][idx]
         
@@ -42,6 +44,6 @@ for data in data_list:
     df_new = pd.merge(df, df_ner_count)
     df_new.to_csv(output_path + data + '.tsv', sep='\t')
 
-    print('Finished counting : ' + data + '.tsv')
+    print('Finished counting... : ' + data + '.tsv')
 
-print('Finished counting Named Entity')
+print('Finished counting Named Entity...')
