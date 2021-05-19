@@ -14,8 +14,8 @@ output_path = './output_files/'
 st = StanfordNERTagger(path + 'classifiers/english.muc.7class.distsim.crf.ser.gz')
 
 # Set data name list
-#data_list = ['b_comment_full', 'c_comment_full', 'full_comment_full', 'full_text_full', 'story_full', 'update_full']
-data_list = ['c_comment_full', 'update_full', 'story_full']
+data_list = ['b_comment_full', 'c_comment_full', 'full_comment_full', 'full_text_full', 'story_full', 'update_full']
+#data_list = ['c_comment_full', 'update_full', 'story_full']
 
 for data in data_list:
     # Load Dataset
@@ -27,8 +27,8 @@ for data in data_list:
     df_ner_count = pd.DataFrame(columns={'ID','LOCATION', 'PERSON', 'ORGANIZATION', 
                                          'MONEY', 'PERCENT', 'DATE', 'TIME'})
 
-    print('Start counting NER...')
-
+    #print('Start counting NER...')
+    
     for idx, text in enumerate(tqdm(df['content'])):
         ner_tag_list = st.tag(text.split())
         
@@ -43,9 +43,9 @@ for data in data_list:
         
     df_ner_count = df_ner_count.append(tag_count_dict, ignore_index=True)
 
-    df_new = pd.merge(df, df_ner_count)
-    df_new.to_csv(output_path + data + '.tsv', sep='\t')
-
     print('Finished counting... : ' + data + '.tsv')
+    
+df_new = pd.merge(df, df_ner_count)
+df_new.to_csv(output_path + data + '.tsv', sep='\t')
 
 print('Finished counting Named Entity...')
