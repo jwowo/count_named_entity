@@ -1,0 +1,468 @@
+		Dear Backers , We did it !
+
+		It was a rollercoaster of a ride , but thanks to all of you we 've produced the only drone built to autonomously capture your adventures in action sports !
+
+		Shipping AirDog 's to all Kickstarter backers was a priority for us , but the goal has always been far more difficult than just that .
+
+		We aspire to create a company which develops not only the ultimate solution for self produced content , but also inspires people to get out there and experience the incomparable feeling of doing what you love and letting go of everything else .
+
+		It 's these moments that give us the drive to push forward and to never stop .
+
+		We wish to give our utmost respect and love to all who have been with us through this stage , your importance will never be forgotten !
+
+		?re introducing a regular update series in which we ?ll not only be sharing videos but tips and tricks and more .
+
+		This is the first step of many more to come towards the communication between all of you and all of us .
+
+		To stay tuned be sure to follow us at : www.airdog.com/blog We ca n't thank you enough for being a part of this endeavor in creating the first Action Sports Drone !
+
+		We are just getting started !
+
+
+AirDog Team Dear Backers	ORGANIZATION	, Getting all of the rework done at the factory has taken longer than planned , but we have good news to share .
+
+		Starting from this week , we will ship out the final batches of AirDogs every 2 weeks .
+
+		Tests have concluded that all flaws that we 've previously found and told you about have been solved and we are ready to resume shipping .
+
+		Those of you who are in the next batch have already received an email to confirm your shipping details and the next batch of recipients will be receiving a similar email to confirm their shipping details .
+
+		Things are moving along !
+
+		Have a good week !
+
+		AirDog Team Dear Founders , Things have been rolling along and we ?ve got a short update for you .
+
+		GPS Module A few updates ago we told you about some GoPro models affecting the GPS signal .
+
+		We resolved the issue by moving the GPS module and antenna .
+
+		Andrejs our Electronics Engineer explains it a little further : ? Once we discovered the problem with GoPro interference on the GPS module we tried to use
+EMI	ORGANIZATION	absorption materials to reduce the interference .
+
+		These techniques however proved ineffective and the only option was to move the GPS module further away from the noise source .
+
+		Several new locations for the module were considered , but through rigorous testing and many test flights it was determined that the best location was locating it in the drone ?s rear right ? wing ? as shown in the images .
+
+		The relocation of the module dramatically reduced noise interference from the camera without hindering GPS performance .
+
+		The proximity of the battery was a serious consideration .
+
+		We were worried that this could be detrimental to GPS positioning accuracy , however flight test showed otherwise . ?
+
+		Though there were various reservations about the placement of the GPS module , test after test proved we were in the clear .
+
+		The photo below is of a prototype showcasing the new GPS module placement .
+
+		Batch # 2 The most time consuming part of this GPS module update is the reassembly for the AirDogs we have manufactured .
+
+		In addition to this we ?re recalibrating the gyros and accelerometers in accordance with the new software update that engages sensor heating .
+
+		Once that ?s done its just the basic tests and the first part of Batch # 2 goes out .
+
+		Our initial deadline for this rework moved slightly to the second week of May due to some component lead time .
+
+		Next week we will send out surveys to re-confirm shipping addresses to the next backers in line .
+
+		Share your footage Once you ?re familiar with your AirDog and getting some great footage , we ?d love to feature and share your videos .
+
+		So when you upload your videos or photos , use #airdog or #actionsportsdrone so we can easily find it .
+
+		Winter Sports Lookback The snow is all but gone and our guys testing AirDog are switching gears a bit , so here ?s a look back at last season ?s shots from beta testers and various shoots , ca n?t wait for the next winter !
+
+		" see " the horizon which is critical to maintain the desired attitude of the aircraft during flight .
+
+		Both sensors are very sensitive to temperature changes .
+
+		When you calibrate these sensors there is one temperature but then it can be very different when it needs to fly .
+
+		Over the last year we ?ve been using software compensation to deal with this issue but after receiving data from our beta tester community we realized that software alone was n?t solving this issue , so in the latest software update we have engaged sensor heating which we implemented in our hardware design a year ago .
+
+		So now , regardless of the ambient temperature , sensors inside AirDog will be heated to a constant temperature which is maintained during the whole operation .
+
+		You might wonder what 's the benefit to you as a user ?
+
+		It has improved safety and the need for calibration should now be almost eliminated .
+
+		Feedback over the first week has been very positive and we are very happy to see that we could significantly improve user experience .
+
+		Improved User Interface and Experience When we shipped the first AirDogs to our beta testers our main concern was if
+AirLeash	PERSON	and all dedicated sports flight modes will be easy enough to use .
+
+		It turned out that the majority of users were very positive about the performance and their experience with AirDog in flight , though we received a lot of constructive criticism about the user experience in preflight procedures .
+
+		We invested a lot of work since January to make everything super easy to understand by adding lots of animations and textual tips that show up on AirLeash display .
+
+		This especially applies to sensor check and calibration process .
+
+		So those in Batch # 2 ( late April ) will get your AirDog pre-calibrated in the factory with heated sensors and getting your AirDog in the air will be a breeze .
+
+		While a majority of you are still waiting due to numerous hardware related delays in manufacturing , we are doing our best to improve AirDog 's performance , reliability and user experience .
+
+		Batch # 2 Late April the next batch is rolling off of the conveyer belt and after some quick tests it will be shipped .
+
+		We will keep you posted on exact dates as the shipping day comes closer .
+
+		DJI & Airdog You must remember that in October we experienced a major
+ESC	ORGANIZATION	failure problem .
+
+		Now it 's official , DJI did a great job and helped us solve this issue by developing a custom controller for Airdog .
+
+		Since both companies recognize that our products and markets are quite different and DJI has invaluable engineering expertise we feel like this partnership could grow even stronger in future and ESC 's might not be the only components that are manufactured by the current market leader in consumer drones .
+
+		Have a nice day ( or evening ) !
+
+
+AirDog Team Dear Founders	PERSON	, It ?s On !
+
+		We ?ve shipped AirDog to backers in Batch # 1 , so those in Batch # 1 will be getting shipping confirmation within a couple of days ( as Easter weekend approaches our shipping partners may send your confirmation next week ) .
+
+		Get ready !
+
+		We ?re stoked about shipping and looking forward to everyone getting their AirDog .
+
+		Meanwhile our development team continues to implement the solution to the GPS interference from some GoPro camera models .
+
+		The design of the new GPS board is almost completed and the components for manufacturing are waiting in the factory for the green light from our engineers .
+
+		All of our resources are focused on getting Batch # 2 out asap .
+
+		Testing with the Pros If you follow us on
+Instagram	ORGANIZATION	then for sure you ?ve seen that we ?ve been busy getting feedback and pushing AirDog to its limits with some of the best in Snowboarding ,
+MTB	ORGANIZATION	, Water Skiing and Wakeboarding .
+
+		Testing with the likes of
+JP Solberg	PERSON	( Yes .
+
+		Snowboards ) ,
+Danny Harf	PERSON	( Ronix ) ,
+Shawn Watson	PERSON	,
+Aaron Chase	PERSON	( Red Bull ) ,
+Nicholi Rogatkin	PERSON	( Specialized MTB ) and more amazing athletes ensures that AirDog exceeds the challenge for those even at the top of their sport .
+
+		Advancing Coaching
+Mike Ferraro	PERSON	needs no introduction for those familiar with water sports , here he talks about AirDog and the future of coaching as Dom Hernler ( Red Bull , Ronix ) , named Union ?s Rider of the Year ( 2015 ) shreds with AirDog .
+
+		We ?re digging getting to know the Ronix team and it ?s great seeing their passion for improving athlete performance , something
+AirDog	PERSON	will help take to the next level .
+
+		?re ready to start shipping and will ship Batch # 1 of AirDogs next week .
+
+		Although ,
+AirDogs	ORGANIZATION	in Batch # 1 will only be compatible with GoPro Hero 4 Black .
+
+		We will ship out AirDogs that are compatible with GoPro models Hero 3 , Hero 3 + & Hero 4
+Silver / Black in Batch	ORGANIZATION	# 2 , which is scheduled for the third week of April .
+
+		What this means :
+KS Backers	ORGANIZATION	that are in Batch # 1 can choose to receive their AirDog now or wait to be included in Batch # 2 ( if you ?re in batch # 1 you ?ll be contacted soon ) .
+
+		The issue : We found out that the GoPro causes interference with the GPS signal while it is recording , heavily affecting GPS quality , so we are relocating the GPS module and antenna .
+
+		Some GoPro models and firmware combinations work better than others , but we are confident only in GoPro 4 Black with the current GPS positioning .
+
+		Moving Forward We realize that for some Backers this causes a delay , but for those within Batch # 1 with GoPro 4 Black nothing changes .
+
+		And as we ?re creating tech that has n?t existed before , you as early adopters of are a huge part of it , to which we ?re very grateful for .
+
+		Snowpark Session Always searching for ways to improve , we recently headed to a local snowpark to test out various flight modes .
+
+		Here ?s the result !
+
+		?ve got a short , but good update .
+
+		Let 's go .
+
+		Smart Batteries & Shipping Update Everything is on schedule .
+
+		The smart battery production is moving along as planned .
+
+		Electronics are being manufactured already and the factory is setting up testing jigs and stands to verify every single battery ?s quality after final assembly .
+
+		We ?re counting down the days until we send out the biggest batch of AirDogs yet .
+
+		Again , thanks for your patience during this delay !
+
+		Damper Issue , Resolved While the last shipping delay was caused by batteries we used the time and situation to fix several other issues .
+
+		As we ?ve told you before , we were searching for new materials for the new dampers that would perform efficiently ( isolate vibrations from the camera ) in temperatures below 26?F ( - 3?C ) .
+
+		We ?ve managed to source the new dampers and they will be on all AirDogs that are going out in the next shipment .
+
+		All of the Beta Testers will receive new gimbal parts with a replacement video tutorial and will be able to fix this issue on their own .
+
+		Hurray !
+
+		No more shaky footage in winter conditions .
+
+		Arm Bridge Abrasion After a lot of feedback from our Beta Testers , it became apparent that after some time it became harder and harder to unfold and fold AirDog ?s arms due to abrasion caused by the ? arm bridge ? ( a plastic part that holds the arms to the main body ) .
+
+		So along with replacing the dampers we ?ve also replaced the arm bridges with new ones made from a different material .
+
+		This will keep folding and unfolding AirDog smooth and seamless even after 1000 cycles .
+
+		Snowboarding Following us on
+Instagram	PERSON	?
+
+		If not , check this out .
+
+		.
+
+		Thanks for reading and have a great day !
+
+
+AirDog Team Dear Founders	PERSON	, The week is coming to an end and we ?ve got a quick update for you .
+
+		Smart Battery Progress Two weeks ago we announced that we postponed shipping and were to resume shipping around the second week of March .
+
+		Since then we ?ve developed several iterations of prototypes and arrived at a solution that met our requirements .
+
+		As of last week the smart battery pre-production electronic version arrived and is being tested and everything works as expected .
+
+		The factory is working on setting up assembly tooling and all is going according to plan .
+
+		Thanks for your patience , we ?re getting closer and closer and as a result of the shipping delay a larger batch of AirDogs will be shipped out when we resume shipments .
+
+
+AirDog	PERSON	set up w / DC Rainmaker Our backer and Beta tester
+Ray Maker	PERSON	, aka DC Rainmaker posted quick setup video .
+
+		We ?re totally diggin ? his creativity and how
+Ray	PERSON	is planning out the shots he ?s going for with AirDog .
+
+		?re not developing dedicated flight modes for ( yet ) .
+
+		Here ?s the result of taking AirDog paragliding .
+
+		?ve resolved .
+
+		Check out our blog post and
+Tobi	PERSON	's impressions of AirDog here .
+
+		Have a great end to the week !
+
+		AirDog Team Dear Founders , We hope you are enjoying your week .
+
+		We ?ve got some information that affects shipping , and some updates on fun adventures we ?ve been on , so please read ahead ... Battery Safety Recently there was an isolated case of an AirDog battery catching fire during charging , the incident took place in
+Thailand	LOCATION	, while one of our Beta Testers was there for a visit .
+
+		This is the first and only incident we have ever had since we ?ve began working with our batteries and chargers .
+
+		While lithium polymer battery fires are very rare they can happen suddenly and can do a lot of damage .
+
+		Customer safety is
+Airdog	PERSON	's top priority , and after analysis of this case we have voluntarily decided to replace the current lithium polymer batteries with new , redesigned smart lithium polymer batteries .
+
+		The battery cell itself stays the same but the electronics in the battery pack are being upgraded .
+
+		To mitigate the risk of any battery - caused fire or damage , we will not include the current battery in any of the outgoing shipments and will hold shipments until we have the new battery in - hand .
+
+		We have already been working on AirDog Battery 2.0 ( to improve efficiency ) for a few months and have sped - up the production schedule to the earliest possible completion date of the second week of March .
+
+		It pains us to delay shipping , but your safety is key .
+
+		Those who have AirDog : We advise you to not charge the current batteries .
+
+		Although if you decide to do so , use extra caution when charging the battery ( never leave the battery unattended or overnight and charge on concrete or other non-flammable surfaces ) .
+
+		As a reminder , we will post the battery usage guidelines from the user manual at the end of this update .
+
+		Those who will have AirDog : We have the AirDog units ready to ship , but we will only proceed with shipping when the new batteries are available .
+
+		We sincerely apologize for the inconvenience , but your safety is very important to us .
+
+		The safety functions of the new batteries are covered at the end of this post .
+
+		And more positive news ?
+Orlando	LOCATION	Videos We have loads of killer footage from our trip in the
+US	LOCATION	last month , so we ?ll continue to roll out the videos in the coming weeks .
+
+		Today we ?re droppin ? a video we shot with Pro Slalom Waterskier
+Dorien Llewellyn	PERSON	.
+
+		?s footage .
+
+		We gave
+Kynan	PERSON	a call to thank him for all the beta testing input and great video .
+
+
+Kynan	PERSON	also answered some questions and covered his first impressions with AirDog in this post .
+
+		?s his first video with AirDog , we ?re super impressed with the creativity and angles
+Ray	PERSON	used already in the first day of riding .
+
+		" storage " level ( 65 % ) , which will greatly reduce the risk of battery damage .
+
+		6 .
+
+		Existing chargers will be compatible with new batteries , but eventually we will be shipping new chargers with AirDog kits .
+
+		Those will be laptop style chargers that will be more suitable for the new batteries .
+
+		We will not replace existing chargers , though new chargers will be available as an upgrade option .
+
+		Dear Founders , Here ?s this week ?s update .
+
+		Shipping Last week we shipped the 1st batch of AirDogs ( to backers ) and this week we ?re preparing orders for the 2nd batch ( to backers ) , which will ship early next week .
+
+		Your support has been great and we ?re itching to get all AirDogs out to ya !
+
+		Please take notice , some backers still need to confirm their shipping address and phone number in order to receive their AirDog .
+
+		Shipping for our pre-order customers will commence after shipping to backers is complete .
+
+		Sub zero temperature issue In order to have smooth and vibration free video we ?ve installed dampers ( vibration absorbers ) on the gimbal system , as per usual .
+
+		The specs from our current manufacturer of dampers were to work until -40 ?F ( - 40?C ) temperatures .
+
+		During the whole prototyping period we were testing only in warm climates but now when the winter kicked in we learned through both our experience and beta tester ?s that in 26?F ( - 3?C ) and lower temperatures the dampers change their physical structure and become hard , which leads to less than optimal footage quality .
+
+		The solution to this will take a few months to source and test other materials , but wo n?t delay shipping , and we ?ll go with current dampers .
+
+		So once we ?ve got the new dampers ready we ?ll send the replacements along with a video guide so you can replace them without shipping back your AirDog .
+
+		The replacement will be a rather simple mechanical procedure that can be done by an unskilled person in 15 - 30 minutes .
+
+		But in case you would like to wait and have the new dampers installed on your AirDog please reach out by e-mail to simply saying that you are willing to wait for the new dampers .
+
+		An upside to this is that you ?re not affected if you ?re flying in temperatures warmer than 26?F ( - 3?C ) .
+
+		Backer Video ? The first time I flew my Airdog above water !
+
+		It was great !!!
+
+		The wind was around 15 - 18 knots and the video is super stable . ?
+
+		- Yair from
+Israel	LOCATION	had this to say after his first time with AirDog out on the water .
+
+		Check out the action !
+
+		?ll also publish longer edits and reviews soon .
+
+		ISPO 2016 We ?re having a great time at ISPO 2016 in
+Munich	LOCATION	.
+
+		If you ?re around you ?ve got to drop by , there ?s only 2 more days left !
+
+		Thanks and have a great week !
+
+
+Airdog Team Dear Founders	PERSON	, Here 's this week 's update and some fresh videos .
+
+		Update on Beta testing process So far there 's really valuable input coming from our Beta testers community .
+
+		We 're going through the feedback provided by our testers and we 're constantly implementing software updates that will further enhance AirDog user experience to make sure you all receive a really fantastic product .
+
+		Shipping Several hundred of AirDogs are produced and waiting to be shipped .
+
+		Production lines are busy and we are preparing shipping documentation for the first batch .
+
+		We will start with smaller batches and increase their size week by week .
+
+		From what we 've learned with our current shipments to our Beta testers , it takes a lot of our support team 's time and effort to deal with all Q&A for each delivery .
+
+		Nevertheless we learn quickly , so with every batch we will provide a smoother user experience .
+
+		By the end of February all AirDogs will be shipped to our Kickstarter community .
+
+		We 're still missing quite a lot of your phone numbers !
+
+		Please submit your phone number ASAP ( info on how to do that was published in the previous Kickstarter update ) .
+
+		We 're also sending email reminders to all of those who have n't provided this information .
+
+		The shipping company is scheduled to pick up
+AirDogs	PERSON	next Wednesday Jan 20th , so please send this information !
+
+		Check out this little video with our beta tester Leon cruising on his longboard : ?re super stoked to attend ISPO ( the biggest action sports event in
+Europe	LOCATION	) in
+Munich	LOCATION	.
+
+		If you ?re there we ?d love to have a chat , so drop by our booth ( B5 / 415 ) !
+
+		Cheers !
+
+		Hey Founders !
+
+		Here 's this week 's update .
+
+		CES 2016 Part of our team is out in
+Vegas	LOCATION	for CES .
+
+		Here ?s a look at one of the videos taken during the media day .
+
+		From Digital Trends : " AirDog is probably the easiest to fly drone ever made . "
+
+		.
+
+		?ll ship in backer order .
+
+		But before we can ship , we ?re asking that all backers check their phone number and address submissions on our website .
+
+		Some provided this info , others did n?t .
+
+		See the step by step guide at the bottom of this update if needed .
+
+		Beta Testing From
+Texas	LOCATION	to
+New Zealand	LOCATION	our Beta Testers are flying AirDog in an array of environments and with almost every sport .
+
+		Input has been super valuable and we ?re working on software updates in order to have your AirDog in top form once you receive it .
+
+
+Backer Videos	ORGANIZATION
+Kynan Stevenson	PERSON	from
+Texas	LOCATION	, shared his first AirDog footage with us .
+
+		We added music to the video , but that ?s it .
+
+
+Kynan	PERSON	did n?t use any image stabilization - it ?s just him on the coast kiteboarding !
+
+
+Kynan	PERSON	did add that winds were pretty low that day .
+
+		?F ( - 20?C ) ( remember , AirDog 's minimum operating temperature is 14?F ( - 10?C ) , so -4 ?F is a bit extreme ) , even despite the dampers being frozen ( which resulted in some jello effect in the video ) .
+
+		We 're exploring different materials for the damper system in order to cope with extreme temperatures .
+
+		?ve got a really quick updated this go around .
+
+		Scheduled As Planned We ?re still on schedule to ship AirDog to all backers throughout January .
+
+		You ?ll get a notification before we ship , so be on the lookout .
+
+		Shipment is based on backer order .
+
+		Thanks for your patience and support .
+
+		We could n?t be more excited about all of you receiving AirDog .
+
+		Happy New Year !
+
+		There ?s only a few more days left for 2015 , we ?re looking forward to the New Year and hope you are too !
+
+		January is sure to bring extra adventures and excitement when you get AirDog !
+
+		And if you 're wondering what
+Santa	LOCATION	does after Christmas , this might give you a good idea .
+
+		?re shipping and we have an AirDog Holiday Offer .
+
+		Read on !
+
+		Shipping Resumes It ?s happening !
+
+		After finding new ESC manufacturers , implementing and testing the new ESCs , and of course
+FCC	ORGANIZATION	and IC approval , we start shipping today !
+
+		So those who volunteered to beta test , get ready !
+
+		And everyone else , you ?ll be getting AirDog as we ?ve said before , in January 2016 .
+
+		Thanks for your patience and support during this time !
+
+		Holiday Offer Until December 31st Since you ?ve already ordered
+AirDog	ORGANIZATION	, when you purchase the ( Holiday Offer ) set of 3 batteries you receive an additional battery for free , that ?s up to 72 minutes of flying !
+

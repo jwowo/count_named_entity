@@ -1,0 +1,1 @@
+Moon Rift is an RPG platform shooter being developed for IOS and Android with later release planned on PC, MAC, LINUX and now OUYA. The game has you taking your custom created character through a wonderful 2.5D world shooting almost everything in sight! Try the demo: <url>
